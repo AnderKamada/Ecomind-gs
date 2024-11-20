@@ -1,2 +1,2 @@
 # Ecomind-gs
-Documentação e código do prototipo funcionando. Aplicativo com 5 telas funcionais: Tela de Login, Tela Inicial, Tela de inserção de dados, Tela de lista de dados com opção de excluir, Tela de edição dos dados.
+Codigo do net sobre a Plataforma de Gestão de Energia para Comunidades. Uma aplicação web que permite que comunidades ou empresas monitorem o consumo energético, incentivem práticas de economia de energia e gerenciem a geração e uso de energia renovável.
