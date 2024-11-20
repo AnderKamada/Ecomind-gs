@@ -1,0 +1,6 @@
+@EcoMind_HostAddress = http://localhost:5167
+
+GET {{EcoMind_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
